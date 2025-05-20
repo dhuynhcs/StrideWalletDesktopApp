@@ -142,7 +142,7 @@ The application follows the Model-View-Controller (MVC) architectural pattern:
 6. Login:
    ```
    - Users login with their cashtag aka their username
-   John Doe Credentials: johndoe, Password123 J
+   John Doe Credentials: johndoe, Password123
    ane Smith Credentials: janesmith, Password123
    all other accounts also have Password123
    ```
