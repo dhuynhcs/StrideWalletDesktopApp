@@ -2,12 +2,12 @@
 By Daniel Huynh
 
 ## Project Overview
-StrideWallet is a comprehensive Java Swing application designed to provide a secure and user-friendly digital payment solution. This system allows users to manage their digital wallets, transfer money to other users, request payments, manage contacts, and track transaction history.
+StrideWallet is a comprehensive Java Swing application designed to provide a secure and user-friendly digital payment system simulation. This system allows users to manage their digital wallets, transfer money to other users, request payments, manage contacts, and track transaction history.
 
 Future WIP I'm hoping to implement someday:
-Transaction Fees
-Rewards based on fitness activity goals such as weekly step count.
-Rewards can include things like transaction fee discounts, Web3 coins, cashback, etc
+- Transaction Fees
+- Rewards based on fitness activity goals such as weekly step count hence the name Stride Wallet
+- Rewards can include things like transaction fee discounts, Web3 coins, cashback, etc
 
 ## Features
 
@@ -80,7 +80,17 @@ The application follows the Model-View-Controller (MVC) architectural pattern:
   - DatabaseUtil, Security, Verification, RefreshUtility
 
 ## Screenshots
-[Screenshots would be inserted here]
+<p align="center">
+<img width="313" alt="Screenshot 2025-05-20 at 8 18 42 AM" src="https://github.com/user-attachments/assets/021d1ed6-19db-45a7-a6f8-98ce6f793f14" />
+</p>
+
+<p align="center">
+  <img width="610" alt="Screenshot 2025-05-20 at 8 20 20 AM" src="https://github.com/user-attachments/assets/66148fa4-4b78-457c-9e72-55b38e9c1626" />
+</p>
+
+<p align="center">
+<img width="807" alt="Screenshot 2025-05-20 at 8 22 55 AM" src="https://github.com/user-attachments/assets/5b99d3df-6e42-475f-b6c5-27c233e4fade" />
+</p>
 
 ## Installation and Setup
 1. Ensure Java JDK 8 or higher is installed
