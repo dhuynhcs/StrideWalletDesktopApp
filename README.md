@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="610" alt="Screenshot 2025-05-20 at 8 20 20 AM" src="https://github.com/user-attachments/assets/66148fa4-4b78-457c-9e72-55b38e9c1626" />
+</p>
+
 # StrideWallet - Digital Payment Application
 By Daniel Huynh
 
