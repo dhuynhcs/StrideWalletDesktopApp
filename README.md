@@ -13,6 +13,32 @@ Future WIP I'm hoping to implement someday:
 - Rewards based on fitness activity goals such as weekly step count hence the name Stride Wallet
 - Rewards can include things like transaction fee discounts, Web3 coins, cashback, etc
 
+## Database Entries
+Users you can test with:
+
+User Table
+
+<img width="847" alt="Screenshot 2025-05-20 at 8 39 43 AM" src="https://github.com/user-attachments/assets/ccbf8633-9d61-424c-bca6-38979550c434" />
+
+Users login with their cashtag aka their username
+- John Doe Credentials: johndoe, Password123
+- Jane Smith Credentials: janesmith, Password123
+- all other accounts also have Password123
+
+Transaction Table
+
+<img width="845" alt="Screenshot 2025-05-20 at 8 47 22 AM" src="https://github.com/user-attachments/assets/e9e31b04-55e2-4369-b59a-72a7e8376e6b" />
+
+Contact Table
+
+<img width="839" alt="Screenshot 2025-05-20 at 8 47 48 AM" src="https://github.com/user-attachments/assets/eb30c3c0-bcfc-4485-8858-6ea4d9e31a86" />
+
+Wallet Table
+
+<img width="845" alt="Screenshot 2025-05-20 at 8 48 11 AM" src="https://github.com/user-attachments/assets/dc728fb8-690b-418a-83a1-70a177f239a6" />
+
+- Wallet and transaction tables could probably be encrypted in the future
+
 ## Features
 
 ### User Authentication
@@ -113,6 +139,14 @@ The application follows the Model-View-Controller (MVC) architectural pattern:
    ```
    java -cp bin AuthController
    ```
+6. Login:
+   ```
+   - Users login with their cashtag aka their username
+   John Doe Credentials: johndoe, Password123 J
+   ane Smith Credentials: janesmith, Password123
+   all other accounts also have Password123
+   ```
+
 
 ## Database Schema
 
